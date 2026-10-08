@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pizzería La Campesina</title>
+  <meta name="description" content="Pizzería La Campesina: pizza artesana para comer en el local, recoger o a domicilio.">
+  <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar" id="top">
+    <a class="brand" href="#top"><img src="assets/logo.svg" alt="" width="36" height="36"><span data-site="nombre"></span></a>
+    <button class="menu-toggle" aria-label="Abrir menú" aria-expanded="false">☰</button>
+    <nav class="nav">
+      <a href="#carta">Carta</a>
+      <a href="#nosotros">Nosotros</a>
+      <a href="#horario">Horario</a>
+      <a href="#contacto">Contacto</a>
+      <a class="btn btn-small js-tel" href="#">Llamar</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-inner">
+      <p class="eyebrow">Desde el horno, para ti</p>
+      <h1 data-site="nombre"></h1>
+      <p class="lead" data-site="eslogan"></p>
+      <div class="hero-actions">
+        <a class="btn js-tel" href="#">Haz tu pedido</a>
+        <a class="btn btn-ghost" href="#carta">Ver la carta</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="features">
+    <div class="feature"><span>🔥</span><h3>Horno</h3><p>Base crujiente y bordes aireados.</p></div>
+    <div class="feature"><span>🌾</span><h3>Masa propia</h3><p>Elaborada a diario con fermentación lenta.</p></div>
+    <div class="feature"><span>🛵</span><h3>Para llevar</h3><p>Recoge en el local o pide a domicilio.</p></div>
+  </section>
+
+  <section class="section" id="carta">
+    <h2>Nuestra carta</h2>
+    <div class="tabs" role="tablist"></div>
+    <div class="menu-list"></div>
+  </section>
+
+  <section class="section about" id="nosotros">
+    <div class="about-text">
+      <h2>Nosotros</h2>
+      <p>En La Campesina hacemos pizza como en casa: ingredientes frescos, masa hecha a mano cada día y mucho cariño en cada horneado.</p>
+      <p>Ven a comer con nosotros, llévatela o pídela a domicilio. Te esperamos.</p>
+    </div>
+    <div class="about-img" role="img" aria-label="Pizza recién horneada"></div>
+  </section>
+
+  <section class="section split" id="horario">
+    <div>
+      <h2>Horario</h2>
+      <table class="hours"></table>
+    </div>
+    <div id="contacto">
+      <h2>Contacto</h2>
+      <ul class="contact">
+        <li>📍 <span data-site="direccion"></span></li>
+        <li>📞 <a class="js-tel" href="#"><span data-site="telefono"></span></a></li>
+        <li>✉️ <a class="js-mail" href="#"><span data-site="email"></span></a></li>
+      </ul>
+      <div class="social"></div>
+    </div>
+  </section>
+
+  <section class="map">
+    <iframe title="Mapa" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </section>
+
+  <footer class="footer">
+    <p>© <span class="year"></span> <span data-site="nombre"></span> · Todos los derechos reservados</p>
+  </footer>
+
+  <a class="whatsapp" hidden target="_blank" rel="noopener" aria-label="WhatsApp">💬</a>
+
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
