@@ -172,7 +172,9 @@ window.SITE = {
         { src: "assets/fotos/pizza-nueva-york.jpg", alt: "Pizza Nueva York" }
       ] },
     { id: "fotos-hamburguesas", menu: "Fotos Hamburguesas", titulo: "FOTOS HAMBURGUESAS", noFlecha: true, fotos: [] },
-    { id: "fotos-papas", menu: "Fotos Papas", titulo: "FOTOS PAPAS", noFlecha: true, fotos: [] },
-    { id: "fotos-entrantes", menu: "Fotos Entrantes", titulo: "FOTOS ENTRANTES", noFlecha: true, fotos: [] }
+    { id: "fotos-papas", menu: "Fotos Papas", titulo: "FOTOS PAPAS", noFlecha: true,
+      fotos: [{ src: "assets/fotos/papas-carne-mechada.jpg", alt: "Papas con carne mechada" }] },
+    { id: "fotos-entrantes", menu: "Fotos Entrantes", titulo: "FOTOS ENTRANTES", noFlecha: true,
+      fotos: [{ src: "assets/fotos/entrantes-croquetas-de-pollo.jpg", alt: "Croquetas de pollo" }] }
   ]
 };
