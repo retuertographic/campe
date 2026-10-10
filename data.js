@@ -121,10 +121,10 @@ window.SITE = {
         { n: 139, nombre: "Nestea melocotón", desc: "Lata 33cl / Botella 1,5l", precio: ["2,00€", "4,00€"] },
         { n: 140, nombre: "Aquarius naranja", desc: "Lata 33cl / Botella 1,5l", precio: ["2,00€", "4,00€"] },
         { n: 141, nombre: "Aquarius limón", desc: "Lata 33cl / Botella 1,5l", precio: ["2,00€", "4,00€"] },
-        { n: 142, nombre: "Red Bull", desc: "Lata 33cl", precio: ["2,50€"] },
-        { n: 143, nombre: "Appleteizer", desc: "Peq. 275ml", precio: ["2,00€"] },
-        { n: 144, nombre: "Zumo melocotón", desc: "Peq. 275ml", precio: ["2,00€"] },
-        { n: 145, nombre: "Zumo pera piña", desc: "Peq. 275ml", precio: ["2,00€"] }
+        { n: 142, nombre: "Appleteizer", desc: "Peq. 275ml", precio: ["2,00€"] },
+        { n: 143, nombre: "Zumo melocotón", desc: "Peq. 275ml", precio: ["2,00€"] },
+        { n: 144, nombre: "Zumo pera piña", desc: "Peq. 275ml", precio: ["2,00€"] },
+        { n: 145, nombre: "Red Bull", desc: "Lata 33cl", precio: ["2,50€"] }
       ],
       extra: {
         titulo: "CERVEZAS Y VINOS",
