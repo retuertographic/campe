@@ -173,7 +173,13 @@ window.SITE = {
       ] },
     { id: "fotos-hamburguesas", menu: "Fotos Hamburguesas", titulo: "FOTOS HAMBURGUESAS", noFlecha: true, fotos: [] },
     { id: "fotos-papas", menu: "Fotos Papas", titulo: "FOTOS PAPAS", noFlecha: true,
-      fotos: [{ src: "assets/fotos/papas-carne-mechada.jpg", alt: "Papas con carne mechada" }] },
+      fotos: [
+        { src: "assets/fotos/papas-fritas.jpg", alt: "Papas fritas" },
+        { src: "assets/fotos/papas-locas.jpg", alt: "Papas locas" },
+        { src: "assets/fotos/papas-pollo-desmechado.jpg", alt: "Papas pollo desmechado" },
+        { src: "assets/fotos/papas-carne-mechada.jpg", alt: "Papas con carne mechada" },
+        { src: "assets/fotos/papas-la-campesina.jpg", alt: "Papas La Campesina" }
+      ] },
     { id: "fotos-entrantes", menu: "Fotos Entrantes", titulo: "FOTOS ENTRANTES", noFlecha: true,
       fotos: [
         { src: "assets/fotos/entrantes-nuggets-de-pollo.jpg", alt: "Nuggets de pollo" },
