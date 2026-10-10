@@ -74,12 +74,12 @@ window.SITE = {
     {
       id: "entrantes", menu: "Entrantes", titulo: "ENTRANTES", noFlecha: true,
       platos: [
-        { n: 100, nombre: "Pan con ajo y Q. amarillo", nuevo: true, desc: "Lleva orégano | Extras: Mechada, Pollo en salsa, Jamón Serrano o Tomate Natural 1€ c/u", precio: ["5,00€"] },
+        { n: 100, nombre: "Pan con ajo y Q. amarillo", nuevo: true, desc: "Lleva orégano | Extras: Mechada, Pollo en salsa, Jamón Serrano con Tomate Natural 1€ c/u", precio: ["5,00€"] },
         { n: 101, nombre: "Nuggets de pollo", desc: "8 Unidades | Salsa Barbacoa 1€", precio: ["5,00€"] },
-        { n: 102, nombre: "Croquetas de pollo", desc: "7 Unidades | Salsa alioli 1€", precio: ["6,00€"] },
-        { n: 103, nombre: "Tequeños de queso blanco", desc: "6 Unidades | Mermelada de arándanos 1€", precio: ["7,00€"] },
+        { n: 102, nombre: "Alitas / Jamoncito de pollo", nuevo: true, desc: "6 Unidades | Con Salsa Barbacoa", precio: ["5,50€"] },
+        { n: 103, nombre: "Croquetas de pollo", desc: "7 Unidades | Salsa alioli 1€", precio: ["6,00€"] },
         { n: 104, nombre: "Nachos Mexicanos", nuevo: true, desc: "Con queso Cheddar y Guacamole", precio: ["6,00€"] },
-        { n: 105, nombre: "Alitas / Jamoncito de pollo", nuevo: true, desc: "6 Unidades | Con Salsa Barbacoa", precio: ["5,50€"] }
+        { n: 105, nombre: "Tequeños de queso blanco", desc: "6 Unidades | Mermelada de arándanos 1€", precio: ["7,00€"] }
       ],
       pie: "salsas"
     },
