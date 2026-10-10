@@ -85,7 +85,7 @@ main { max-width: 760px; margin: 0 auto; padding: 0 16px; }
 
 .foto { margin: 40px 0 0; border: 8px solid #d10000; border-radius: 4px; }
 .foto img, .galeria img { display: block; width: 100%; height: auto; }
-.galeria { display: grid; gap: 16px; }
+.galeria { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
 .galeria img { border: 8px solid #d10000; border-radius: 4px; }
 .vacio { text-align: center; font-family: Courgette, cursive; color: var(--granate); font-size: 1.4rem; }
 
