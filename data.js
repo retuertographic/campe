@@ -175,6 +175,10 @@ window.SITE = {
     { id: "fotos-papas", menu: "Fotos Papas", titulo: "FOTOS PAPAS", noFlecha: true,
       fotos: [{ src: "assets/fotos/papas-carne-mechada.jpg", alt: "Papas con carne mechada" }] },
     { id: "fotos-entrantes", menu: "Fotos Entrantes", titulo: "FOTOS ENTRANTES", noFlecha: true,
-      fotos: [{ src: "assets/fotos/entrantes-croquetas-de-pollo.jpg", alt: "Croquetas de pollo" }] }
+      fotos: [
+        { src: "assets/fotos/entrantes-nuggets-de-pollo.jpg", alt: "Nuggets de pollo" },
+        { src: "assets/fotos/entrantes-croquetas-de-pollo.jpg", alt: "Croquetas de pollo" },
+        { src: "assets/fotos/entrantes-tequenos.jpg", alt: "Tequeños de queso blanco" }
+      ] }
   ]
 };
