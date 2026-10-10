@@ -34,13 +34,13 @@
     if (sec.leyendaPicante) h += '<div class="leyenda-wrap"><span class="leyenda">' + CHILI + "Picante</span></div>";
     if (sec.fotos) {
       h += sec.fotos.length
-        ? '<div class="galeria">' + sec.fotos.map(function (f) { return '<img src="' + f.src + '" alt="' + esc(f.alt) + '" loading="lazy">'; }).join("") + "</div>"
+        ? '<div class="galeria">' + sec.fotos.map(function (f) { return '<img src="' + f.src + '" alt="' + esc(f.alt) + '" loading="lazy" tabindex="0">'; }).join("") + "</div>"
         : '<p class="vacio">Próximamente</p>';
     } else {
       h += platos(sec.platos, sec.columnas);
     }
     if (sec.nota) h += '<p class="nota">' + sec.nota.map(esc).join("<br>") + "</p>";
-    if (sec.foto) h += '<figure class="foto"><img src="' + sec.foto + '" alt="Foto ' + esc(sec.menu) + '"></figure>';
+    if (sec.foto) h += '<figure class="foto"><img src="' + sec.foto + '" alt="Foto ' + esc(sec.menu) + '" tabindex="0"></figure>';
     if (sec.extra) h += brush(sec.extra.titulo) + platos(sec.extra.platos);
     if (sec.pie === "pizza") {
       h += '<div class="pizza-pie"><div><span class="azul">Todas las pizzas llevan tomate y queso.</span>' +
@@ -106,4 +106,47 @@
     a.target = "_blank";
     a.rel = "noopener";
   });
+  // Lightbox: amplía las fotos de las galerías
+  var lb = document.createElement("div");
+  lb.className = "lightbox";
+  lb.hidden = true;
+  lb.setAttribute("role", "dialog");
+  lb.setAttribute("aria-modal", "true");
+  lb.innerHTML = '<button class="lightbox-close" type="button" aria-label="Cerrar">&times;</button><img alt="">';
+  document.body.appendChild(lb);
+  var lbImg = lb.querySelector("img");
+  var lastFocus = null;
+
+  function openLightbox(img) {
+    lastFocus = img;
+    lbImg.src = img.currentSrc || img.src;
+    lbImg.alt = img.alt;
+    lb.hidden = false;
+    document.body.classList.add("no-scroll");
+    lb.querySelector(".lightbox-close").focus();
+  }
+  function closeLightbox() {
+    if (lb.hidden) return;
+    lb.hidden = true;
+    lbImg.removeAttribute("src");
+    document.body.classList.remove("no-scroll");
+    if (lastFocus) lastFocus.focus();
+  }
+
+  cont.addEventListener("click", function (e) {
+    var img = e.target.closest(".galeria img, .foto img");
+    if (img) openLightbox(img);
+  });
+  cont.addEventListener("keydown", function (e) {
+    var img = e.target.closest(".galeria img, .foto img");
+    if (img && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); openLightbox(img); }
+  });
+  // Cierra con la X o al hacer clic fuera de la foto
+  lb.addEventListener("click", function (e) {
+    if (e.target !== lbImg) closeLightbox();
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape") closeLightbox();
+  });
+  window.addEventListener("hashchange", closeLightbox);
 })();

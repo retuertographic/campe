@@ -178,7 +178,12 @@ window.SITE = {
         { src: "assets/fotos/pizza-la-campesina.jpg", alt: "Pizza La Campesina" },
         { src: "assets/fotos/pizza-nueva-york.jpg", alt: "Pizza Nueva York" }
       ] },
-    { id: "fotos-hamburguesas", menu: "Fotos Hamburguesas", titulo: "FOTOS HAMBURGUESAS", noFlecha: true, fotos: [] },
+    { id: "fotos-hamburguesas", menu: "Fotos Hamburguesas", titulo: "FOTOS HAMBURGUESAS", noFlecha: true,
+      fotos: [
+        { src: "assets/fotos/hamburguesa-normal.jpg", alt: "Hamburguesa Normal" },
+        { src: "assets/fotos/hamburguesa-americana.jpg", alt: "Hamburguesa Americana" },
+        { src: "assets/fotos/hamburguesa-la-campesina.jpg", alt: "Hamburguesa La Campesina" }
+      ] },
     { id: "fotos-papas", menu: "Fotos Papas", titulo: "FOTOS PAPAS", noFlecha: true,
       fotos: [
         { src: "assets/fotos/papas-fritas.jpg", alt: "Papas fritas" },
