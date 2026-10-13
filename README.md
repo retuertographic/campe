@@ -22,3 +22,16 @@ python3 -m http.server 8000
 ## Despliegue
 
 El workflow `.github/workflows/deploy.yml` publica la web en GitHub Pages en cada push.
+
+## Posts para redes (1:1)
+
+`posts/` genera imágenes cuadradas 1080×1080 de la carta a partir de `data.js`
+(4 de pizzas, entrantes, hamburguesas, papas, bebidas y helados). Tras cambiar
+precios o platos, regénéralas:
+
+```bash
+python3 -m http.server 8765 &
+node posts/render.js        # escribe posts/png/*.png
+```
+
+Vista previa en el navegador: `/posts/`.

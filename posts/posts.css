@@ -1,0 +1,36 @@
+/* Posts cuadrados de la carta: se diseñan a 540×540 y se exportan a 1080×1080 (x2). */
+body { background: #e9e4dc; margin: 0; }
+#posts { display: flex; flex-wrap: wrap; gap: 24px; padding: 24px; justify-content: center; }
+.post { position: relative; width: 540px; height: 540px; background: #fff; display: flex; flex-direction: column; overflow: hidden; flex: none; }
+.post-head { padding: 18px 28px 6px; position: relative; }
+.post .brush { width: 400px; font-size: 2rem; margin: 0 auto; padding: 8px 10px 12px; }
+.post-page { position: absolute; top: 24px; right: 22px; font: 900 .8rem Lato, sans-serif; color: var(--granate); letter-spacing: 1px; }
+.post-body { flex: 1; min-height: 0; padding: 4px 30px 10px; display: flex; justify-content: center; align-items: center; overflow: hidden; }
+.post-inner { flex: none; max-width: none; margin: 0; }
+.post .salsas { margin-top: 18px; }
+.post .pizza-pie { margin-top: 14px; }
+.post .nota { margin-top: 14px; }
+.post .brush.sub { width: 380px; font-size: 1.7rem; margin-top: 16px; }
+/* Bebidas: formato compacto con el envase en la misma línea */
+.compact .item { padding: 3px 0; }
+.compact .item-desc { grid-column: auto; grid-row: 1; display: none; }
+.compact .item-name small { font: 400 .95rem "Barlow Condensed", sans-serif; color: var(--desc); text-transform: none; margin-left: 6px; }
+.post-foot { background: linear-gradient(#c0111a, #9e0b12); color: #fff; display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 8px 22px 8px 12px; }
+.post-foot svg { width: 150px; height: auto; display: block; }
+.post-foot svg text { fill: #d40000; font-family: Montserrat, Arial, sans-serif; }
+.foot-info { text-align: right; line-height: 1.1; }
+.foot-tel { font: 800 1.45rem Poppins, sans-serif; letter-spacing: .5px; }
+.foot-web { font: 400 .8rem "Alfa Slab One", serif; color: #ffd98a; letter-spacing: .5px; }
+.dos-col { display: grid; grid-template-columns: 1fr 1fr; gap: 0 34px; }
+.sub-t { font: 400 1.35rem "Alfa Slab One", serif; color: #fff; background: var(--azul); margin: 0 0 6px; padding: 4px 12px; border-radius: 3px; text-align: center; }
+.sub-t:not(:first-child) { margin-top: 16px; }
+.sub-t-hide { visibility: hidden; }
+.post .item { padding: 4px 0; }
+.compact .item { padding: 2px 0; }
+.envases { grid-column: 1 / -1; margin: 12px 0 0; text-align: center; font: italic 400 1rem "Barlow Condensed", sans-serif; color: var(--desc); }
+.compact .item-name { white-space: nowrap; }
+.compact .item-price { gap: 8px; }
+.compact .item-price span, .compact .cols-head span { min-width: 50px; width: 50px; }
+.compact .cols-head { gap: 8px; }
+.dos-col .col { min-width: 0; }
+.carta-helado .item-name { white-space: nowrap; }
