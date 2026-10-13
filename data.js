@@ -99,9 +99,9 @@ window.SITE = {
         { n: 90, nombre: "Papas fritas", precio: ["3,50€"] },
         { n: 91, nombre: "Papas locas", desc: "Jamón y Queso Amarillo", precio: ["6,00€"] },
         { n: 92, nombre: "Papas pollo desmechado", desc: "Pollo Desmechado y Queso Amarillo", precio: ["7,00€"] },
-        { n: 93, nombre: "Papas con carne mechada", desc: "Carne Mechada y Queso Amarillo", precio: ["8,00€"] },
-        { n: 95, nombre: "Papas La Campesina", desc: "Pollo Desmechado, Carne Mechada, Jamón y Queso", precio: ["10,00€"] },
-        { n: 96, nombre: "Salchipapas", nuevo: true, desc: "Con Queso Amarillo y Salsa Barbacoa", precio: ["10,00€"] }
+        { n: 93, nombre: "Salchipapas", nuevo: true, desc: "Con Queso Amarillo", precio: ["7,00€"] },
+        { n: 94, nombre: "Papas con carne mechada", desc: "Carne Mechada y Queso Amarillo", precio: ["8,00€"] },
+        { n: 95, nombre: "Papas La Campesina", desc: "Pollo Desmechado, Carne Mechada, Jamón y Queso", precio: ["10,00€"] }
       ],
       pie: "salsas"
     },
