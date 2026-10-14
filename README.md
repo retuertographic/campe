@@ -2,7 +2,7 @@
 
 Web estática (HTML + CSS + JS, sin dependencias) con el menú de Pizzería La Campesina.
 
-Publicada en GitHub Pages: https://retuertographic.github.io/campe/
+Publicada en GitHub Pages con dominio propio: https://pizzerialacampesina.com/ (archivo `CNAME`)
 
 ## Editar el contenido
 
