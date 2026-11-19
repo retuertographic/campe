@@ -35,3 +35,13 @@ node posts/render.js        # escribe posts/png/*.png
 ```
 
 Vista previa en el navegador: `/posts/`.
+
+## llms.txt
+
+`llms.txt` (formato [llmstxt.org](https://llmstxt.org)) resume la pizzería y la
+carta completa para asistentes de IA. Se genera desde `data.js`; tras cambiar
+precios o platos, regenéralo:
+
+```bash
+node scripts/llms.js
+```

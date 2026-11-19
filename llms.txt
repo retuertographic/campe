@@ -1,0 +1,138 @@
+# Pizzería La Campesina
+
+> Pizzería en Valle San Lorenzo (Arona, Tenerife) con servicio a domicilio. Pizzas, entrantes, hamburguesas, papas, bebidas y helados. Pedidos por teléfono al 922 765 939. Horario: 18 - 23 h.
+
+- Teléfono: 922 765 939
+- Dirección: Cruz del Guanche, nº17, Valle San Lorenzo, Tenerife
+- Horario: 18 - 23 h
+- Web: https://pizzerialacampesina.com/
+- Instagram: https://www.instagram.com/pizzerialacampesinatenerife
+- Facebook: https://www.facebook.com/pizzerialacampesinatenerife
+- Todos los productos son susceptibles de contener alérgenos.
+
+## Web
+
+- [Pizzas](https://pizzerialacampesina.com/#pizzas): carta
+- [Entrantes](https://pizzerialacampesina.com/#entrantes): carta
+- [Hamburguesas](https://pizzerialacampesina.com/#hamburguesas): carta
+- [Papas](https://pizzerialacampesina.com/#papas): carta
+- [Bebidas](https://pizzerialacampesina.com/#bebidas): carta
+- [Helados](https://pizzerialacampesina.com/#helados): carta
+- [Fotos Pizzas](https://pizzerialacampesina.com/#fotos-pizzas): galería de fotos
+- [Fotos Hamburguesas](https://pizzerialacampesina.com/#fotos-hamburguesas): galería de fotos
+- [Fotos Papas](https://pizzerialacampesina.com/#fotos-papas): galería de fotos
+- [Fotos Entrantes](https://pizzerialacampesina.com/#fotos-entrantes): galería de fotos
+
+## Servicio a domicilio
+
+- 3€: Valle San Lorenzo centro
+- 4€: La Fuente, Calle La Libertad, Los Toscales, Quinta Revuelta, La Florida, Cabo Blanco, Buzanada, La Camella
+- 5€: Malpaso
+- 5€: La Sabinita, Túnez, Arona, El Roque
+- Pedido mínimo fuera del Valle de San Lorenzo de 12€
+- Precios en menú sujetos a cambios. Consulta nuestra web y redes sociales.
+
+## Pizzas
+
+Precios: MED. / FAM. (mediana / familiar).
+Todas las pizzas llevan tomate y queso. Ingrediente extra normal: 1€ mediana, 2€ familiar. Ingrediente extra especial (gambas, anchoas, carne mechada y picada, jamón serrano): 2€ mediana, 4€ familiar.
+
+- 1. Margarita: MED 7€ / FAM 15€. Tomate, Queso
+- 2. Salami: MED 7€ / FAM 15€. Tomate, Queso, Salami
+- 3. Pepperoni: MED 7€ / FAM 15€. Tomate, Queso, Pepperoni
+- 4. Jamón: MED 7€ / FAM 15€. Tomate, Queso, Jamón
+- 5. Espinaca: MED 7€ / FAM 15€. Queso Azul, Espinaca
+- 6. Jamón y Champiñones: MED 7€ / FAM 15€. Jamón, Champiñones
+- 7. Hawai: MED 7€ / FAM 15€. Jamón, Piña
+- 8. Atún: MED 7€ / FAM 15€. Atún, Cebolla
+- 9. Suprema: MED 7€ / FAM 15€. Jamón, Bacon, Maíz
+- 10. Pollo Mechado: MED 7€ / FAM 15€. Pollo Mechado, Pimiento, Maíz
+- 11. Rústica: MED 7€ / FAM 15€. Salami, Pimiento, Champiñones
+- 12. Cuatro Quesos: MED 7€ / FAM 15€. Edam, Gouda, Queso Azul, Queso Crema
+- 13. Pollo Barbacoa: MED 7€ / FAM 15€. Salsa Barbacoa, Pollo, Bacon
+- 14. Salchicha (nuevo): MED 7€ / FAM 15€. Salchicha
+- 15. Kebab de Pollo (nuevo): MED 7€ / FAM 15€. Kebab de Pollo
+- 16. Cuatro Estaciones: MED 8€ / FAM 16€. Jamón, Champiñones, Alcachofa, Aceitunas
+- 17. Picante (picante): MED 8€ / FAM 16€. Salami, Pimiento, Cebolla, Chili, Jalapeños
+- 18. Caprichosa: MED 8€ / FAM 16€. Atún, Jamón, Champiñones, Cebolla, Pimiento
+- 19. Vegetariana: MED 8€ / FAM 16€. Alcachofa, Pimientos, Cebolla, Champiñones, Maíz
+- 20. Carne Mechada: MED 8€ / FAM 16€. Carne Mechada, Pimiento, Cebolla
+- 21. Carne Barbacoa: MED 8€ / FAM 16€. Carne Picada de Ternera, Cerdo, Bacon, Cebolla, S. Barbacoa
+- 22. Tropical: MED 8€ / FAM 16€. Jamón, Piña, Plátano
+- 23. Jamón Serrano: MED 10€ / FAM 17€. Tomate Natural, Jamón Serrano, Ajo
+- 24. Bolognesa: MED 10€ / FAM 17€. Carne Picada de Ternera, Cerdo con Salsa Boloñesa
+- 25. Mexicana (picante): MED 10€ / FAM 17€. Carne Picada de Ternera y Cerdo, Maíz, Jalapeños
+- 26. Marinera: MED 10€ / FAM 18€. Atún, Gambas, Mejillones
+- 27. Tentación: MED 10€ / FAM 18€. Atún, Jamón, Piña, Maíz, Huevo
+- 28. Pollo Tikka (picante): MED 10€ / FAM 18€. Pollo Tikka, Cebolla, Jalapeños
+- 29. Atlántica: MED 10€ / FAM 18€. Anchoas, Alcaparras, Aceitunas
+- 30. Mediterránea: MED 10€ / FAM 18€. Jamón, Anchoas, Aceitunas
+- 31. Carbonara: MED 10€ / FAM 18€. Bacon, Huevo, Cebolla, Queso Crema
+- 32. Neptuno: MED 10€ / FAM 20€. Anchoas, Gambas, Ajo, Aceitunas
+- 33. La Campesina: MED 10€ / FAM 20€. Carne Mechada, Bacon, Chorizo, Champiñones, Huevo
+- 34. Nueva York: MED 12€ / FAM 22€. Hamburguesa, Bacon, Jamón, Huevo, Papas, Salsa Barbacoa
+
+## Entrantes
+
+- 100. Pan con ajo y Q. amarillo (nuevo): 5,00€. Lleva orégano | Extras: Mechada, Pollo en salsa, Jamón Serrano con Tomate Natural 1€ c/u
+- 101. Nuggets de pollo: 5,00€. 8 Unidades | Salsa Barbacoa 1€
+- 102. Alitas / Jamoncito de pollo (nuevo): 5,50€. 6 Unidades | Con Salsa Barbacoa
+- 103. Croquetas de pollo: 6,00€. 7 Unidades | Salsa alioli 1€
+- 104. Nachos Mexicanos (nuevo): 6,00€. Con queso Cheddar y Guacamole
+- 105. Tequeños de queso blanco: 7,00€. 6 Unidades | Mermelada de arándanos 1€
+
+## Hamburguesas
+
+Todas Nuestras Hamburguesas llevan: Ketchup, Mayonesa y Mostaza (salvo La Campesina). Nuestras ensaladas son de: Tomate y lechuga.
+
+- 40. Normal: 5,00€. Carne, Salsa, Ensalada y Queso
+- 41. Pollo Crunchy (nuevo): 6,00€. Pollo Crunchy, Salsas, Ensalada y Queso Amarillo
+- 42. Americana: 6,00€. Carne, Salsa, Ensalada, Jamón, Bacon, Huevo y Queso
+- 45. La Campesina: 8,00€. Doble Carne, Ensalada, Jamón, Bacon, Huevo, Queso, Pepinillo y S.Barbacoa
+
+## Papas
+
+- 90. Papas fritas: 3,50€
+- 91. Papas locas: 6,00€. Jamón y Queso Amarillo
+- 92. Papas pollo desmechado: 7,00€. Pollo Desmechado y Queso Amarillo
+- 93. Salchipapas (nuevo): 7,00€. Con Queso Amarillo
+- 94. Papas con carne mechada: 8,00€. Carne Mechada y Queso Amarillo
+- 95. Papas La Campesina: 10,00€. Pollo Desmechado, Carne Mechada, Jamón y Queso
+
+## Bebidas
+
+Precios: PEQ. / GRAN. (pequeño / grande).
+
+- 130. Agua sin gas: PEQ 1,50€ / GRAN 2,50€. 0,5cl / 1,5l
+- 131. Agua con gas: 2,00€. 0,5cl / 1,5l
+- 132. Coca Cola original: PEQ 2,00€ / GRAN 3,50€. Lata 33cl / Botella 1,5l
+- 133. Coca Cola zero: PEQ 2,00€ / GRAN 3,50€. Lata 33cl / Botella 1,5l
+- 134. Clipper fresa: PEQ 2,00€ / GRAN 3,50€. Lata 33cl / Botella 1,5l
+- 135. Fanta naranja: PEQ 2,00€ / GRAN 3,50€. Lata 33cl / Botella 1,5l
+- 136. Fanta limón: PEQ 2,00€ / GRAN 3,50€. Lata 33cl / Botella 1,5l
+- 137. Seven Up: PEQ 2,00€ / GRAN 3,50€. Botella 1,5l
+- 138. Nestea mango-piña: PEQ 2,00€ / GRAN 4,00€. Lata 33cl / Botella 1,5l
+- 139. Nestea melocotón: PEQ 2,00€ / GRAN 4,00€. Lata 33cl / Botella 1,5l
+- 140. Aquarius naranja: PEQ 2,00€ / GRAN 4,00€. Lata 33cl / Botella 1,5l
+- 141. Aquarius limón: PEQ 2,00€ / GRAN 4,00€. Lata 33cl / Botella 1,5l
+- 142. Appleteizer: 2,00€. Peq. 275ml
+- 143. Zumo melocotón: 2,00€. Peq. 275ml
+- 144. Zumo pera piña: 2,00€. Peq. 275ml
+- 145. Red Bull: 2,50€. Lata 33cl
+
+### Cervezas y vinos
+
+- 120. Cerveza Dorada: 2,00€. Lata 33cl
+- 121. Cerveza Heineken: 2,00€. Lata 33cl
+- 122. Vino tinto de la casa: 6,00€. Botella 750ml
+
+## Helados
+
+- 160. Corneto de Chocolate Vainilla: 2€
+- 161. Corneto de Fresa Nata: 2€
+
+## Salsas
+
+- 80. Salsa BBQ, alioli o mermelada de arándanos: 1,00€
+- 81. Kétchup y mayonesa: 1,00€. 4 sobres pequeños de kétchup y 4 de mayonesa
+- 82. Guacamole (nuevo): 1,50€
