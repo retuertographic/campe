@@ -68,6 +68,10 @@ L.push("");
 L.push("## Salsas");
 L.push("");
 S.salsas.forEach(function (p) { L.push(plato({ n: p.n, nombre: p.nombre, nuevo: p.nuevo, desc: p.desc, precio: [p.precio] })); });
+L.push("");
+L.push("## Optional");
+L.push("");
+L.push("- [Retuerto Graphic Design](https://retuertographicdesign.com/): diseño y desarrollo de la web (Ricardo Retuerto Barrera)");
 
 fs.writeFileSync(path.join(raiz, "llms.txt"), L.join("\n") + "\n");
 console.log("llms.txt generado (" + L.length + " líneas)");
